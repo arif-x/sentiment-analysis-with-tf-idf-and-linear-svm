@@ -170,3 +170,6 @@ df_dataset.head()
 
 df_dataset.to_csv('data.csv')
 df_dataset.to_excel('data.xlsx')
+
+def dataset():
+    return df_dataset
