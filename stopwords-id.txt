@@ -121,6 +121,8 @@ betul
 betulkah
 biasa
 biasanya
+bikin
+bikinan
 bila
 bilakah
 bisa
@@ -249,6 +251,8 @@ entah
 entahlah
 f
 g
+ga
+gak
 guna
 gunakan
 h
@@ -328,6 +332,7 @@ kapankah
 kapanpun
 karena
 karenanya
+karna
 kasus
 kata
 katakan
@@ -369,11 +374,15 @@ kiranya
 kita
 kitalah
 kok
+krn
 kurang
+kusus
+kususnya
 l
 lagi
 lagian
 lah
+laah
 lain
 lainnya
 laku
@@ -421,6 +430,7 @@ memang
 memastikan
 memberi
 memberikan
+membikin
 membuat
 memerlukan
 memihak
@@ -512,6 +522,8 @@ naik
 namun
 nanti
 nantinya
+ntah
+ntaah
 nya
 nyaris
 nyata
@@ -774,6 +786,7 @@ tidakkah
 tidaklah
 tiga
 toh
+tp
 tuju
 tunjuk
 turut
@@ -782,6 +795,8 @@ tuturnya
 u
 ucap
 ucapnya
+udah
+udahnya
 ujar
 ujarnya
 umumnya
@@ -806,4 +821,6 @@ yaitu
 yakin
 yakni
 yang
+yank
+yg
 z
