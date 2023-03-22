@@ -1,5 +1,5 @@
 File Proses TF-IDF
-| File | Feature/Word Ranking |
+| File | Feature/Term |
 | ------ | ------ |
 | tf_idf.ipynb | 75 |
 
