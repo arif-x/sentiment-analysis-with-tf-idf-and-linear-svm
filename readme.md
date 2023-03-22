@@ -1,5 +1,6 @@
 File Proses TF-IDF
 | File | Feature/Word Ranking |
+| ------ | ------ |
 | tf_idf.ipynb | 75 |
 
 File SVM
